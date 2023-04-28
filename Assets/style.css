@@ -33,6 +33,8 @@
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+//top nav bar
+
 .Nav_Option1{
   display: flex;
   margin: .5rem;
@@ -77,6 +79,8 @@
 .Nav_Option4 :hover{
   font-weight: bold;
 }
+
+//I'm going to circle back have this download my resume
 
 .Resume_Button{
   display: flex;
